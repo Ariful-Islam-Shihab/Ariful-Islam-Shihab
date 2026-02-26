@@ -23,7 +23,9 @@ I am a Computer Science and Engineering undergraduate currently serving as an Un
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ariful-Islam-Shihab&theme=dark&hide_border=true" />
 </p>
 
-### ✍️ Random Dev Quote
+### 🕌 Random Quran Ayah
+![Quran Ayah](https://quran-ayah-widget.vercel.app/api)
+<!--### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
