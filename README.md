@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hey there, Stranger!!:
 I am a Computer Science and Engineering undergraduate currently serving as an Undergraduate Assistant (UGA). I am deeply passionate about image processing and computer vision, and I enjoy building practical, real-world projects in this domain. I have worked with deep learning architectures such as ResNet, MobileNet, and YOLO for various vision-based applications. I am highly motivated to further explore and contribute to the field of Computer Vision through research and innovative development.
 
 
